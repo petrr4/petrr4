@@ -2,10 +2,10 @@
 <p> I am a tech enthusiast &amp; a self learner.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard"> </p>
 <ul>
-<li>🔭 I’m currently working on **website project.**</li>
-<li>🌱 I’m currently learning Linux and Python</li>
-<li>👯 I’m looking to collaborate on Web Development Related Projects **</li>
-<li>⚡ Fun fact: Ga jelas orangnya👻👻</li>
+<li>🔭 I’m currently working on website project.</li>
+<li>🌱 I’m currently learning Linux and Python.</li>
+<li>👯 I’m looking to collaborate on Web Development Related Projects.</li>
+<li>⚡ Fun fact: Ga jelas orangnya.👻👻</li>
 </ul>
 
 
@@ -49,3 +49,8 @@
 </span>
 
 <h2 id="connect-with-me">Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h2>
+<div align="center">
+<p><a href="https://www.linkedin.com/in/petra-igor-keliat-382867312"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="image"></a>
+<a href="https://www.instagram.com/petra_ik/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="image"></a>
+<a href="mailto:produtor.petraik111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="image"></a></p>
+</div>
