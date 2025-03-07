@@ -1,6 +1,6 @@
   <h1 align="center">Hi 👋, I'm Petra</h1>
 <p> I am a tech enthusiast &amp; a self learner.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard"> </p>
+
 <ul>
 <li>🔭 I’m currently working on website project.</li>
 <li>🌱 I’m currently learning Linux and Python.</li>
