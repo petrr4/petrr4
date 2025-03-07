@@ -44,8 +44,8 @@
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&amp;logo=xampp&amp;logoColor=white">
-  <img  src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white">
+  <img  src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
 </span>
 
 <h2 id="connect-with-me">Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h2>
