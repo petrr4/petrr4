@@ -43,7 +43,7 @@
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&amp;logo=xampp&amp;logoColor=white">
-  <img alt="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Flaragon&psig=AOvVaw38z5vrPsmBdZWDLU1S2coA&ust=1741443520348000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDFkp2V-IsDFQAAAAAdAAAAABAE" src="https://img.shields.io/badge/laragon">
+  <img  src="https://img.shields.io/badge/laragon">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white">
 </span>
 
