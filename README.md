@@ -1,6 +1,8 @@
   <h1 align="center">Hi 👋, I'm Petra</h1>
 <p> I am a tech enthusiast &amp; a self learner.</p>
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+
 <ul>
 <li>🔭 I’m currently working on website project.</li>
 <li>🌱 I’m currently learning Linux and Python.</li>
